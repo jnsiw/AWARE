@@ -1,0 +1,22 @@
+{
+    "aapt_path": "/usr/local/share/android-sdk/build-tools/28.0.3/aapt",
+    "apktool_path": "/usr/local/bin/apktool",
+    "apksigner_path": "/usr/local/share/android-sdk/build-tools/28.0.3/apksigner",
+    "baksmali_path": "./configs/baksmali.jar",
+    "d8_path": "/usr/local/share/android-sdk/build-tools/28.0.3/d8",
+    "javac_path": "/usr/bin/javac",
+    "androidapi_path": "/usr/local/share/android-sdk/platforms/android-28/android.jar",
+
+    "target_path": "./samples/app-release.apk",
+    "keystore_path": "./configs/app-repack.keystore",
+    "keystore_pass": "123456",
+    "tmp_path": "./tmp",
+
+    "APK_target_path":"",
+    "APK_package_name":"",
+    "APK_signature":"",
+    "APK_dalvikEntry_path":"",
+    "APK_real_package_name":""
+
+
+}
